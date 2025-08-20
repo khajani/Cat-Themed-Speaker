@@ -1,2 +1,2 @@
-# -Cat-Themed-Speaker
+# Cat-Themed Speaker
 Cardboard Cat Speaker – Design Challenge
