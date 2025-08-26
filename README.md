@@ -40,3 +40,8 @@ The goal of this project was to design a speaker that could:
 - The amplifier drives the speaker to produce high-volume sound.
 - The geometric cardboard structure enhances sound projection and acoustics.
 - Push buttons allow basic control of the speaker functionality.
+
+
+
+https://github.com/user-attachments/assets/a44f687f-f3cb-4847-8cdb-1ac0180339a4
+
