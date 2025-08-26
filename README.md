@@ -27,7 +27,7 @@ The goal of this project was to design a speaker that could:
 - Rubber Feet
 - Speaker
 
-<img width="578" height="351" alt="image" src="https://github.com/user-attachments/assets/dde1369e-c236-4bd3-b9d0-886fbaf75d5d" />
+<img width="578" height="351" alt="amplifier" src="https://github.com/user-attachments/assets/dde1369e-c236-4bd3-b9d0-886fbaf75d5d" />
 
 ## ⭐ Key Features
 - **Octagonal back** – maximizes surface area for sound reflection
@@ -43,7 +43,7 @@ The goal of this project was to design a speaker that could:
 - The geometric cardboard structure enhances sound projection and acoustics.
 - Push buttons allow basic control of the speaker functionality.
 
-<img width="976" height="646" alt="image" src="https://github.com/user-attachments/assets/67af09af-7640-44ce-90f2-461efafb4e77" />
+<img width="488" height="323" alt="wiring diagram" src="https://github.com/user-attachments/assets/67af09af-7640-44ce-90f2-461efafb4e77" />
 
 
 https://github.com/user-attachments/assets/a44f687f-f3cb-4847-8cdb-1ac0180339a4
