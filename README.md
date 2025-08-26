@@ -27,6 +27,8 @@ The goal of this project was to design a speaker that could:
 - Rubber Feet
 - Speaker
 
+<img width="1156" height="702" alt="image" src="https://github.com/user-attachments/assets/dde1369e-c236-4bd3-b9d0-886fbaf75d5d" />
+
 ## ⭐ Key Features
 - **Octagonal back** – maximizes surface area for sound reflection
 - **Front slit** – allows sound to exit efficiently
