@@ -33,6 +33,8 @@ The goal of this project was to design a speaker that could:
 - **Trapezoid cones** – four pieces around the speaker face project more volume
 - **Cat-inspired aesthetic** – black stripes and artistic shapes for visual appeal
 
+![cspeakersideview](https://github.com/user-attachments/assets/f2a152ba-b3bb-4c9c-92fc-0b6e31a98ba6)
+
 ## ⚙️ How it Works
 - Audio input is sent to the amplifier.
 - The amplifier drives the speaker to produce high-volume sound.
