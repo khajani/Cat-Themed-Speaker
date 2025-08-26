@@ -4,7 +4,7 @@ This Cat Speaker is a compact and visually striking speaker designed to combine 
 ## 🏆 Key Achievement
 🔊 **95 dB Maximum Volume** – Our design was recognized as **one of the best** in the event for its exceptional sound performance and creative structure.
 
-![catspeaker](https://github.com/user-attachments/assets/e9f2ff5c-8bab-41af-b8fc-695280fa40e3)
+<img src="catspeaker.jpg" alt="Diagram" width="400" />
 
 ## 📌 Challenge Overview & Requirements 
 The goal of this project was to design a speaker that could:
